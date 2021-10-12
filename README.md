@@ -1,2 +1,2 @@
 # open-redirect
-ceshi
+hello coca-cola.com
