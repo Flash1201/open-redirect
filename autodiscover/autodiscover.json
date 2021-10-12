@@ -3,3 +3,10 @@ open-redirect
 
 hello coca-cola
 
+{
+    "sites": [
+    { "name":"coca-cola" , "url":"" }, 
+    { "name":"google" , "url":"www.google.com" }, 
+    { "name":"微博" , "url":"www.weibo.com" }
+    ]
+}
